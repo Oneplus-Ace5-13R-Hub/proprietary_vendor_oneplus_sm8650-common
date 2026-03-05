@@ -470,4 +470,5 @@
         </MediaCodec>
         -->
     </Encoders>
+    <Include href="media_codecs_dolby_audio.xml" />
 </MediaCodecs>
